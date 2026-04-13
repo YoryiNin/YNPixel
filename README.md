@@ -6,4 +6,4 @@ This repository hosts the legal documentation for the **YNPixel** Android applic
 - **Terms of Service:** [English](terms-en.html) / [Español](terms-es.html)
 - **AdMob Verification:** [app-ads.txt](app-ads.txt)
 
-Contact: [TU_EMAIL_AQUI]
+Contact: .yntoxicboythegamer@gmail.com
